@@ -1,2 +1,3 @@
-# develop
+# Java Project
+by Tamanna
 small project
