@@ -1,4 +1,4 @@
 # Java Project
-by Tamanna
+by Tamanna Jangra
 <br>
 small project
