@@ -3,10 +3,13 @@ import java.util.Scanner;//import scanner calss to read user input
 public class calculator {
    public static void main(String[] args) {
     Scanner input=new Scanner(System.in);
+
     System.out.println("give me your first number : ");
     int i=input.nextInt();
-    System.out.println("choose an operator(+,-,*,/)");
+
+    System.out.println("choose an operator(+,-,*,/)");// input arithmetic operator
     char operator=input.next().charAt(0);
+
     System.out.println("give me your second number: ");
     int j=input.nextInt();
 
